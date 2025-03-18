@@ -244,12 +244,12 @@ export default function TelosAlignmentTest() {
           <CardContent className="p-6 text-center">
             {instructions}
             <Button
-  variant="default"
-  className="mt-6 bg-[#C59849] hover:bg-[#C59849]/90 text-black px-6 py-3 rounded-full font-semibold transition-colors"
+  className="mt-6 !bg-[#C59849] !text-black !px-6 !py-3 !rounded-full !font-semibold hover:!bg-[#C59849]/90 !transition-colors"
   onClick={() => setStarted(true)}
 >
   J'ai compris les instructions et je suis prêt pour le test
 </Button>
+
 
 
           </CardContent>
