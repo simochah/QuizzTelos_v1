@@ -5,7 +5,7 @@ import { Progress } from "../components/ui/progress";
 
 const instructions = (
   <div className="text-center">
-    <h1 className="text-2xl font-bold">🔥 Test de Désalignement Rapide – Découvre en 5 minutes ton degré d'alignement avec ton TELOS et ce qui te bloque vraiment 🔥</h1>
+    <h3 className="text-2xl font-bold">🔥 Test de Désalignement Rapide – Découvre en 5 minutes ton degré d'alignement avec ton TELOS et ce qui te bloque vraiment 🔥</h3>
     <p className="text-sm italic mt-4">
       Ce test est conçu pour aider coachs, thérapeutes, entrepreneurs en quête d’alignement (et toute personne en transition de vie) à identifier en quelques minutes leurs blocages invisibles qui les empêchent d’avancer naturellement vers leur plein potentiel.
     </p>
