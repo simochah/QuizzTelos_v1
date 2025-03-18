@@ -85,7 +85,7 @@ const getRecommendation = (score) => {
           <li>Clique sur le lien suivant pour <a href="https://chat.whatsapp.com/KXxviUdZPBiKTG1X4PVr1B" className="text-blue-500 underline">rejoindre la communauté S.A.G.E et profiter de ce que je partage gratuitement à la communauté</a></li>
           <li>Ou bien envoi moi un email <a href="mailto:support@simochah.fr?subject=Demande%20d'information%20suite%20au%20test-quiz" className="text-blue-500 underline">en cliquant ici</a></li>
           <li>Ou bien envoie moi un DM sur Instagram <a href="https://ig.me/m/simochaah" className="text-blue-500 underline">en cliquant ici(@simochaah)</a></li>
-          <li>Ou bien écris moi en privé sur WhatsApp <a href="https://chat.whatsapp.com/KXxviUdZPBiKTG1X4PVr1B" className="text-blue-500 underline">en cliquant ici</a></li>
+          <li>Ou bien écris moi en privé sur WhatsApp <a href="https://wa.me/message/KNHGIT77K3D3F1" className="text-blue-500 underline">en cliquant ici</a></li>
         </ul>
         <h3 className="text-xl font-bold mt-6">🚀 Reconnecte-toi à ton A.M.E et libère ton véritable potentiel dès maintenant !</h3>
       </div>
